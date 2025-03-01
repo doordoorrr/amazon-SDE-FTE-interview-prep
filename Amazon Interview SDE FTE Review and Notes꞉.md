@@ -2,7 +2,7 @@
 tags: [amazon]
 title: 'Amazon Interview SDE FTE Review and Notes:'
 created: '2025-03-01T23:07:12.204Z'
-modified: '2025-03-01T23:50:35.826Z'
+modified: '2025-03-01T23:54:05.672Z'
 ---
 
 # Amazon Interview SDE FTE Review and Notes:
@@ -31,7 +31,7 @@ Practice Platforms:
 	- low level design questions
 		- show off: OOP & design patterns
 	- distrubuted systems design
-[Leetcode Problems](leetcode-problems.md)
+[LeetCode Problems CheckList](leetcode-problems.md)
 
 # (LOW LEVEL) System Design
 
@@ -63,9 +63,11 @@ YT: Systems Design Basics FAANG interviews
 
 ## Review Docs
 ### [Data Structures & Algorithms](Data Strucutures & Algorithms.md)
-###  [Design Patterns](Design Review.md)
+### [Design Patterns](Design Review.md)
 ### [Time/Space Complexity](Time/Space Complexity Review.md) 
 ### [Low-Level System Design](Low-Level System Design.md)
+### [LeetCode Problems CheckList](leetcode-problems.md)
+### [Amazon Leadership Principles](Amazon Leadership Principles.md)
 
 
 
