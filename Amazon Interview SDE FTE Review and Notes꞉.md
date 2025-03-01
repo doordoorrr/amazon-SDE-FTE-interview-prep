@@ -2,20 +2,20 @@
 tags: [amazon]
 title: 'Amazon Interview SDE FTE Review and Notes:'
 created: '2025-03-01T23:07:12.204Z'
-modified: '2025-03-01T23:37:40.911Z'
+modified: '2025-03-01T23:50:35.826Z'
 ---
 
 # Amazon Interview SDE FTE Review and Notes:
-## **Data Structures & Algorithms**
+## Data Structures & Algorithms Key Topics:
 
- Key Topics:
--
-	-  Arrays, Strings, Linked Lists, Stacks, Queues
+
+	- Arrays, Strings, Linked Lists, Stacks, Queues
 	- Trees (Binary Trees, BST, Tries)
 	- Graphs (BFS, DFS, Shortest Path)
 	- Hash tables, Heaps
 	- Sorting and Search Algorithms 
 	- Dynamic Programming, Recursion, Backtracking
+
 Practice Platforms:
 -
 	- LeetCode (+ CrackTech)
@@ -23,18 +23,15 @@ Practice Platforms:
 	- Grind75
 	- HackerRank
 	- CodeForces (??)
+
  Focus on Amazons Recently Asked Q's
 - 
 	- CrackTech
 	- glassdoor Amazon SDE interview questions
-	- LRU cache
-	- merge intervals 
-	- The kth Factor of n
-	- Optimal Partition of String
 	- low level design questions
 		- show off: OOP & design patterns
 	- distrubuted systems design
-
+[Leetcode Problems](leetcode-problems.md)
 
 # (LOW LEVEL) System Design
 
