@@ -2,10 +2,19 @@
 tags: [amazon]
 title: Amazon Leadership Principles
 created: '2025-03-01T23:53:39.817Z'
-modified: '2025-03-02T01:14:13.052Z'
+modified: '2025-03-02T04:23:43.950Z'
 ---
 
 # Amazon Leadership Principles
+Leadership Principles to Focus On
+Customer Obsession: Think of a time you went above and beyond to help a customer or user.
+
+Ownership: Share a story where you took responsibility for a project or task.
+
+Invent and Simplify: Describe a time you came up with a creative solution to a problem.
+
+Learn and Be Curious: Talk about how you learned a new skill or technology to solve a problem.
+
 ### My story, using STAR: 
 
 **Situation:** Describe the situation you were in, or the task you needed to do. Give enough detail for the interviewer to understand the complexities of the situation. This example can be from a previous job, school project, volunteer activity, or other relevant event.
