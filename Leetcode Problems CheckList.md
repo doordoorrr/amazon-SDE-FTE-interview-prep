@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Leetcode Problems CheckList
 created: '2025-03-01T23:50:06.008Z'
-modified: '2025-03-02T00:16:14.879Z'
+modified: '2025-03-02T00:23:34.171Z'
 ---
 
 # Leetcode Problems CheckList
@@ -20,11 +20,17 @@ modified: '2025-03-02T00:16:14.879Z'
  - [ ] Matrix-based DSA problem
 
       
-
+----
 ### Resources:
 
+**Amazon SDE Sheet: Interview Questions and Answers 2024**
+[https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/#](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/#)
+
+**Amazon Interview Questions and Answers**
+[https://www.geeksforgeeks.org/amazon-interview-questions/?ref=next_article_top](https://www.geeksforgeeks.org/amazon-interview-questions/?ref=next_article_top)
+
 **SDE Interview Coding Example**
-https://youtu.be/yKz2kPip4sg
+[https://youtu.be/yKz2kPip4sg](https://youtu.be/yKz2kPip4sg)
 
 
 **LeetCode Feeling Tough? Start Here with 10 Essentials to Tackle First!**
