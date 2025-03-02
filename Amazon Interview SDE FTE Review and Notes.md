@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Amazon Interview SDE FTE Review and Notes
 created: '2025-03-01T23:07:12.204Z'
-modified: '2025-03-02T00:00:34.203Z'
+modified: '2025-03-02T00:04:47.976Z'
 ---
 
 # Amazon Interview SDE FTE Review and Notes
@@ -26,19 +26,22 @@ Practice Platforms:
 
  Focus on Amazons Recently Asked Q's
 - 
+[LeetCode Problems CheckList](LeetCode Problems CheckList.md)
+
 	- CrackTech
 	- glassdoor Amazon SDE interview questions
 	- low level design questions
 		- show off: OOP & design patterns
 	- distrubuted systems design
-[LeetCode Problems CheckList](LeetCode Problems CheckList.md)
+
 
 # (LOW LEVEL) System Design
 [Low-Level System Design](Low-Level System Design.md)
 
 Key Topics:
 -
-YT: Systems Design Basics FAANG interviews
+YouTube: Systems Design Basics FAANG interviews
+
 		- Distributed Systems
 			- Load Balancing 
 			- Caching 

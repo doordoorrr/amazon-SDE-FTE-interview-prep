@@ -1,7 +1,8 @@
 ---
+tags: [amazon]
 title: Low-Level System Design
 created: '2025-03-01T23:35:26.786Z'
-modified: '2025-03-01T23:53:01.321Z'
+modified: '2025-03-02T00:05:33.894Z'
 ---
 
 # Low-Level System Design
