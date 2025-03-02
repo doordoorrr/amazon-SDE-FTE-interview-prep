@@ -2,12 +2,15 @@
 tags: [amazon]
 title: (LOW LEVEL) System Design
 created: '2025-03-01T23:35:26.786Z'
-modified: '2025-03-02T06:20:35.778Z'
+modified: '2025-03-02T07:21:06.681Z'
 ---
 
 # (LOW LEVEL) System Design
 **todo:** 
 - study all sections, then review appraoch & design patterns for solving such problems, then kill it! **
+*You don’t really need to learn all of the design patterns, it’s mainly just an ood question where you’ll need to write multiple classes for it. If you are not sure if it’s an OOD question, ASKK. and if they say you can do w.e you want, it’s most likely an ood question. *
+ [https://www.reddit.com/r/amazonsdeprep/comments/1hsv4uf/lld_or_code_extensibility/?share_id=82dBFzlYHHBNhKYlBE85u&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1](https://www.reddit.com/r/amazonsdeprep/comments/1hsv4uf/lld_or_code_extensibility/?share_id=82dBFzlYHHBNhKYlBE85u&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
+ ![Image](https://media.discordapp.net/attachments/1343662594669678692/1345656591751450634/image.png?ex=67c557dc&is=67c4065c&hm=eef455d4e53816070d815cbd05cb7b4e42f99e3978d6f8ac0d1366140264650e&=&format=webp&quality=lossless&width=300&height=300)
 
 Key Topics:
 -
@@ -94,5 +97,14 @@ Key Topics:
   
 - Design a URL Shortener (basic version)
     -
+---
+## Reources:
+That One Reddit Post:
+[https://www.reddit.com/r/amazonsdeprep/comments/1hsv4uf/lld_or_code_extensibility/?share_id=82dBFzlYHHBNhKYlBE85u&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1](https://www.reddit.com/r/amazonsdeprep/comments/1hsv4uf/lld_or_code_extensibility/?share_id=82dBFzlYHHBNhKYlBE85u&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
 
+Example Problems:
+https://leetcode.com/discuss/interview-question/object-oriented-design?currentPage=1&orderBy=most_relevant&query=amazon&utm_source=anamazonsde.beehiiv.com&utm_medium=referral&utm_campaign=lld-or-logical-and-maintainable
+
+Sample Code: 
+https://leetcode.com/discuss/interview-question/object-oriented-design/5418003/Unix-File-API-Amazon-OOD-My-Take?utm_source=anamazonsde.beehiiv.com&utm_medium=referral&utm_campaign=lld-or-logical-and-maintainable
 
