@@ -2,15 +2,32 @@
 tags: [amazon]
 title: Amazon Leadership Principles
 created: '2025-03-01T23:53:39.817Z'
-modified: '2025-03-02T01:11:07.093Z'
+modified: '2025-03-02T01:14:13.052Z'
 ---
 
 # Amazon Leadership Principles
+### My story, using STAR: 
+
+**Situation:** Describe the situation you were in, or the task you needed to do. Give enough detail for the interviewer to understand the complexities of the situation. This example can be from a previous job, school project, volunteer activity, or other relevant event.
+
+
+**Task:** Describe your goal.
+
+**Action:** Describe the actions you took. Use an appropriate amount of detail. What steps did you take? What was your contribution? Let us know what you did, not what your team or group did. Use the word ‘I,’ not ‘we.’
+
+
+**Result:** Describe the outcome of your actions. Don’t be shy about taking credit for what you did. What happened? How did it end? What did you accomplish? What did you learn? Provide examples using metrics or data if applicable.
+
+Consider your successes and failures in relation to the Leadership Principles. Use examples that showcase your expertise and how you’ve taken risks, succeeded, failed, and grown. Keep in mind that some of our most successful programs have risen from the ashes of failed projects. Failure is a necessary part of innovation. We believe in failing early and persevering until we get it right.
+
+
+
 ## 1. Customer Obsession
 *Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.*
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 2. Ownership
@@ -18,6 +35,7 @@ modified: '2025-03-02T01:11:07.093Z'
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 3. Invent and Simplify
@@ -25,6 +43,7 @@ modified: '2025-03-02T01:11:07.093Z'
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 4. Are Right, A Lot
@@ -32,6 +51,7 @@ modified: '2025-03-02T01:11:07.093Z'
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 5. Learn and Be Curious
@@ -39,6 +59,7 @@ Leaders are never done learning and always seek to improve themselves. They are 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 6. Hire and Develop the Best
@@ -46,6 +67,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 7. Insist on the Highest Standards
@@ -53,6 +75,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 8. Think Big
@@ -60,6 +83,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 9.Bias for Action
@@ -67,6 +91,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 10. Frugality
@@ -74,13 +99,15 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 11. Earn Trust
 *Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.*
 ### My story, using STAR: 
 **Situation:** 
-**Task:** 
+**Task:**
+**Action:**  
 **Result:** 
 
 
@@ -89,6 +116,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 
@@ -97,6 +125,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 ## 14. Deliver Results
@@ -104,6 +133,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 
@@ -112,6 +142,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 
@@ -120,6 +151,7 @@ Leaders raise the performance bar with every hire and promotion. They recognize 
 ### My story, using STAR: 
 **Situation:** 
 **Task:** 
+**Action:** 
 **Result:** 
 
 

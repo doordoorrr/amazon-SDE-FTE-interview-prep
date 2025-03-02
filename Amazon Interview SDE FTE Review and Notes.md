@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Amazon Interview SDE FTE Review and Notes
 created: '2025-03-01T23:07:12.204Z'
-modified: '2025-03-02T01:05:19.704Z'
+modified: '2025-03-02T01:15:36.653Z'
 ---
 
 # Amazon Interview SDE FTE Review and Notes
@@ -96,6 +96,7 @@ YouTube: Systems Design Basics FAANG interviews
 ### [Low-Level System Design](Low-Level System Design.md)
 ### [LeetCode Problems CheckList](LeetCode Problems CheckList.md)
 ### [Amazon Leadership Principles](Amazon Leadership Principles.md)
+### [My Interview Questions](My Interview Questions.md)
 
 
 
