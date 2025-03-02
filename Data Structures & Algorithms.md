@@ -2,12 +2,13 @@
 tags: [amazon]
 title: Data Structures & Algorithms
 created: '2025-03-01T23:08:59.024Z'
-modified: '2025-03-02T08:09:08.135Z'
+modified: '2025-03-02T08:18:33.014Z'
 ---
 
 # Data Structures & Algorithms
 **todo:** 
 fill out sections, review, displace the bottom notes
+
  Key Topics:
 -
 	- Arrays, Strings, Linked Lists, Stacks, Queues
