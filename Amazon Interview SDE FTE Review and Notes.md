@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Amazon Interview SDE FTE Review and Notes
 created: '2025-03-01T23:07:12.204Z'
-modified: '2025-03-02T00:00:03.993Z'
+modified: '2025-03-02T00:00:34.203Z'
 ---
 
 # Amazon Interview SDE FTE Review and Notes
@@ -31,7 +31,7 @@ Practice Platforms:
 	- low level design questions
 		- show off: OOP & design patterns
 	- distrubuted systems design
-[LeetCode Problems CheckList](leetcode-problems.md)
+[LeetCode Problems CheckList](LeetCode Problems CheckList.md)
 
 # (LOW LEVEL) System Design
 [Low-Level System Design](Low-Level System Design.md)
