@@ -1,11 +1,11 @@
 ---
 tags: [amazon]
-title: 'Amazon Interview SDE FTE Review and Notes:'
+title: Amazon Interview SDE FTE Review and Notes
 created: '2025-03-01T23:07:12.204Z'
-modified: '2025-03-01T23:58:35.380Z'
+modified: '2025-03-02T00:00:03.993Z'
 ---
 
-# Amazon Interview SDE FTE Review and Notes:
+# Amazon Interview SDE FTE Review and Notes
 ## Data Structures & Algorithms Key Topics:
 
 
