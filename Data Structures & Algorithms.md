@@ -2,10 +2,10 @@
 tags: [amazon]
 title: Data Structures & Algorithms
 created: '2025-03-01T23:08:59.024Z'
-modified: '2025-03-02T05:43:21.098Z'
+modified: '2025-03-02T05:48:20.931Z'
 ---
 
-# **Data Structures & Algorithms**
+# Data Structures & Algorithms
 **todo:** 
 fill out sections, review, displace the bottom notes
  Key Topics:

@@ -2,7 +2,7 @@
 tags: [amazon]
 title: (LOW LEVEL) System Design
 created: '2025-03-01T23:35:26.786Z'
-modified: '2025-03-02T05:43:16.677Z'
+modified: '2025-03-02T05:53:25.362Z'
 ---
 
 # (LOW LEVEL) System Design
@@ -38,13 +38,6 @@ service-oriented architectures, map-reduce, distributed caching, load balancing,
 
 how browsers function at a high level, from DNS lookups and TCP/IP, to socket connections.
 
-
-### Common Low-Level Design Problems
-- Design a Parking Lot
-- Design a Library Management System
-- Design a Chess Game
-- Design a URL Shortener (basic version)
-
 ## Approach to Low-Level Design
 - Clarify Requirements: Ask questions to understand the scope (e.g., "How many users will the system support?").
 
@@ -53,3 +46,11 @@ how browsers function at a high level, from DNS lookups and TCP/IP, to socket co
 - Write Clean Code: Focus on modularity, readability, and scalability.
 
 - Discuss Trade-offs: Be prepared to explain why you chose a particular design (e.g., "I used a hash map for O(1) lookups.").
+
+### Common Low-Level Design Problems
+- Design a Parking Lot
+- Design a Library Management System
+- Design a Chess Game
+- Design a URL Shortener (basic version)
+
+
