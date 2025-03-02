@@ -2,7 +2,7 @@
 tags: [amazon]
 title: (LOW LEVEL) System Design
 created: '2025-03-01T23:35:26.786Z'
-modified: '2025-03-02T07:21:06.681Z'
+modified: '2025-03-02T08:04:20.784Z'
 ---
 
 # (LOW LEVEL) System Design
@@ -83,7 +83,8 @@ Key Topics:
     - Be prepared to explain why you chose a particular design (e.g., "I used a hash map for O(1) lookups.").
 
 ### Common Low-Level Design Problems
-- Design a Parking Lot
+ follow best practices -- SOLID principles.
+- *Design a Parking Lot* OOP OOP OOP OOP OOD OOP OOD O P OOP OOP OOD OOD OOD OOD OOP OOP
     - Entities: ParkingLot, ParkingSpot, Vehicle, Ticket.
     - Functionality: Park a vehicle, find available spots, calculate fees.
 

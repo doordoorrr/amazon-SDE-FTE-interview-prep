@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Data Structures & Algorithms
 created: '2025-03-01T23:08:59.024Z'
-modified: '2025-03-02T06:58:15.804Z'
+modified: '2025-03-02T08:09:08.135Z'
 ---
 
 # Data Structures & Algorithms
@@ -18,6 +18,14 @@ fill out sections, review, displace the bottom notes
 	- Dynamic Programming, Recursion, Backtracking
 	- Vectors
 
+
+
+  - Graphs / Trees (46% of questions, most frequent)
+ - Arrays / Strings (38%)
+ - Linked lists (10%)
+ - Search / Sort (2%)
+ - Stacks & Queues (2%)
+ - Hash tables (2% of questions, least frequent)
 
 # Review
 - [ ] Arrays
@@ -420,6 +428,8 @@ A problem-solving paradigm where a problem is broken into smaller subproblems, s
 
 
 ------
+# RESOURCES:
+- Striver's SDE sheet and video tutorials on trees, graphs
 
 You should also know some of the languages’ nuances, such as how memory management works, or the most commonly used collections, libraries, etc.
 
