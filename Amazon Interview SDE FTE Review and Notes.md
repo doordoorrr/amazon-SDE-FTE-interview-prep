@@ -2,12 +2,17 @@
 tags: [amazon]
 title: Amazon Interview SDE FTE Review and Notes
 created: '2025-03-01T23:07:12.204Z'
-modified: '2025-03-02T00:21:27.967Z'
+modified: '2025-03-02T01:05:19.704Z'
 ---
 
 # Amazon Interview SDE FTE Review and Notes
-
 ## Round Structure
+**Before Coding:** Ask clarifying questions before jumping in to code the problem. Voice your assumptions – this will help the interviewer steer you back on track if needed. Ask for examples and use them to validate your ideas.
+
+**During Coding:** Explain your decision making. Describe your code. Write syntactically correct real code vs. pseudocode. Try to be consistent in your naming conventions and it will make testing/optimizing easier later. If you forget a specific API or specific link into an array, etc., you’re welcome to ask the interviewer who should be able to help you.
+
+**After Coding:** Test your code and talk through optimizing the solution if it can be further optimized if there is more time. Most important here is that you should focus on having a working and fully coded solution on the board to the problem by the end of each interview. If it’s easier for you to start with an inefficient brute force approach and then optimize from there at the end, it’s a perfectly valid approach. Just state that up front with your interviewer. Brute force solution is better than an incomplete solution.
+
 1. Tech/LP
     Focus on **medium leetcode** problems. Be ready to explain your thought process and optimize your solution.
 

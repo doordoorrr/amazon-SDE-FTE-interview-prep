@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Leetcode Problems CheckList
 created: '2025-03-01T23:50:06.008Z'
-modified: '2025-03-02T00:23:34.171Z'
+modified: '2025-03-02T00:24:17.486Z'
 ---
 
 # Leetcode Problems CheckList
@@ -18,6 +18,8 @@ modified: '2025-03-02T00:23:34.171Z'
         Objective: Return the maximum sum possible while traversing.
  - [ ] Keys and Rooms(exactly same on leetcode)
  - [ ] Matrix-based DSA problem
+ - [ ] Leetcode Tree: Maximum path sum
+ 
 
       
 ----
