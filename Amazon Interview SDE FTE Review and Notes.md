@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Amazon Interview SDE FTE Review and Notes
 created: '2025-03-01T23:07:12.204Z'
-modified: '2025-03-02T05:43:18.188Z'
+modified: '2025-03-02T05:46:41.336Z'
 ---
 
 # Amazon Interview SDE FTE Review and Notes
@@ -145,7 +145,7 @@ Key Topics:
 
 ---
 # Master Amazon's LP Principles 
- 
+[Amazon Leadership Principles](Amazon Leadership Principles.md)
 ### Study The Principles:
 	- Review all 16 Amazon LP's
 ### Prepare STAR Stories: 
