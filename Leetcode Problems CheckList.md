@@ -2,12 +2,14 @@
 tags: [amazon]
 title: Leetcode Problems CheckList
 created: '2025-03-01T23:50:06.008Z'
-modified: '2025-03-02T06:08:57.410Z'
+modified: '2025-03-02T07:23:13.646Z'
 ---
 
 # Leetcode Problems CheckList
 **todo:** 
 CODE 
+
+*The list that will take you places:* https://leetcode.com/problem-list/954v5ops/
 
 "write scalable, robust, and well-tested code"
  - [ ] LRU cache
@@ -29,7 +31,8 @@ CODE
 ----
 
 ### Resources:
-
+**The list that will take you places:** 
+[https://leetcode.com/problem-list/954v5ops/](https://leetcode.com/problem-list/954v5ops/)
 **grinnnnndd75**
 [https://www.techinterviewhandbook.org/grind75/](https://www.techinterviewhandbook.org/grind75/)
 
