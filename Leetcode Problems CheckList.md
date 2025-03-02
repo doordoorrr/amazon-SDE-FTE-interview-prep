@@ -2,10 +2,11 @@
 tags: [amazon]
 title: Leetcode Problems CheckList
 created: '2025-03-01T23:50:06.008Z'
-modified: '2025-03-02T00:24:17.486Z'
+modified: '2025-03-02T01:26:24.983Z'
 ---
 
 # Leetcode Problems CheckList
+"write scalable, robust, and well-tested code"
  - [ ] LRU cache
  - [ ] merge intervals 
  - [ ] The kth Factor of n
@@ -23,23 +24,32 @@ modified: '2025-03-02T00:24:17.486Z'
 
       
 ----
-### Resources:
 
-**Amazon SDE Sheet: Interview Questions and Answers 2024**
+### Resources:
+ - [ ] **Amazon Coding Sample**
+[https://youtu.be/mjZpZ_wcYFg](https://youtu.be/mjZpZ_wcYFg)
+
+ - [ ] **Video: Amazon System Design Preparation**
+[https://youtu.be/gNQ9-kgyHfo](https://youtu.be/gNQ9-kgyHfo)
+
+ - [ ] **Video: SDE Interview FAQ**
+[https://youtu.be/KrsFEJEnhPo](https://youtu.be/KrsFEJEnhPo)
+
+ - [ ] **Amazon SDE Sheet: Interview Questions and Answers 2024**
 [https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/#](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/#)
 
-**Amazon Interview Questions and Answers**
+ - [ ] **Amazon Interview Questions and Answers**
 [https://www.geeksforgeeks.org/amazon-interview-questions/?ref=next_article_top](https://www.geeksforgeeks.org/amazon-interview-questions/?ref=next_article_top)
 
-**SDE Interview Coding Example**
+ - [ ] **Video: Amazon SDE Interview Coding Example**
 [https://youtu.be/yKz2kPip4sg](https://youtu.be/yKz2kPip4sg)
 
 
-**LeetCode Feeling Tough? Start Here with 10 Essentials to Tackle First!**
+ - [ ] **Video: LeetCode Feeling Tough? Start Here with 10 Essentials to Tackle First!**
 [https://www.youtube.com/watch?v=pCc4kR-TdYs&ab_channel=CodingNinja](https://www.youtube.com/watch?v=pCc4kR-TdYs&ab_channel=CodingNinja "https://www.youtube.com/watch?v=pCc4kR-TdYs&ab_channel=CodingNinja")
 
-**How to Pass Technical Interviews When You Suck At LeetCode**
+ - [ ] **Video: How to Pass Technical Interviews When You Suck At LeetCode**
 [https://youtu.be/ajI9R-6saEk?si=X4NYBKvsqJ2I0rIw](https://youtu.be/ajI9R-6saEk?si=X4NYBKvsqJ2I0rIw)
 
-**Grokking the Object Oriented Design Interview**
+ - [ ] **Grokking the Object Oriented Design Interview**
 [https://github.com/tssovi/grokking-the-object-oriented-design-interview?tab=readme-ov-file](https://github.com/tssovi/grokking-the-object-oriented-design-interview?tab=readme-ov-file)
