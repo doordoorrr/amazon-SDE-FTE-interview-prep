@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Data Structures & Algorithms
 created: '2025-03-01T23:08:59.024Z'
-modified: '2025-03-02T05:48:20.931Z'
+modified: '2025-03-02T06:21:46.197Z'
 ---
 
 # Data Structures & Algorithms
@@ -21,23 +21,33 @@ fill out sections, review, displace the bottom notes
 
 # Review
 - [ ] Arrays
+    Common problems: Two Sum, Reverse String, Longest Substring Without Repeating Characters.
 
+    Techniques: Sliding Window, Two Pointers.
 - [ ] Strings
 
 - [ ] Linked Lists
+  Common problems: Reverse Linked List, Detect Cycle, Merge Two Sorted Lists.
 
+  Techniques: Dummy Nodes, Fast and Slow Pointers.
 - [ ] Stacks
 
 - [ ] Queues
 
 - [ ] Binary 
 
-- [ ] TreesBST
+- [ ] Trees
+  Common problems: Maximum Depth of Binary Tree, Validate BST, Lowest Common Ancestor.
+
+  Techniques: Recursion, BFS, DFS.
+- [ ] BST
 
 - [ ] Tries
 
 - [ ] Graphs 
+  Common problems: Number of Islands, Clone Graph, Shortest Path.
 
+  Techniques: BFS, DFS, Dijkstra’s Algorithm.
 - [ ] BFS
 
 - [ ] DFS
@@ -49,6 +59,9 @@ fill out sections, review, displace the bottom notes
 - [ ] Sorting and Search Algorithms 
 
 - [ ] Dynamic Programming
+  Common problems: Fibonacci, Longest Increasing Subsequence, Knapsack.
+
+  Techniques: Memoization, Tabulation.
 
 - [ ] Recursion
 

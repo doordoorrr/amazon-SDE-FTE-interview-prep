@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Design Patterns Review
 created: '2025-03-01T23:07:38.145Z'
-modified: '2025-03-02T05:43:23.233Z'
+modified: '2025-03-02T06:25:58.804Z'
 ---
 
 # Design Patterns Review
@@ -11,8 +11,17 @@ modified: '2025-03-02T05:43:23.233Z'
 
 
 1. Structural Pattern
+    - Adapter: convert the interface of a class into another interface
+    - Decorator: add behaviour to objects dynamically
+    - Command: encapsulate a request as an object. 
 2. Creational Pattern
+    - singleton: only allows for one instance in a class
+    - factory: creates objects without specfiying the exact class
+    - builder: construct complex objects step by step
 3. Behavioral Pattern
+    - observer: notify multiple objects when an objects state changes
+    - strategy: define a family of alogorithms and make them interchangeable
+    - command: encapsulate the request of an object
 
 There are various advantages of using design Patterns:
 
