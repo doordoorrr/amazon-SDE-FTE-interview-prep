@@ -2,7 +2,7 @@
 tags: [amazon]
 title: (LOW LEVEL) System Design
 created: '2025-03-01T23:35:26.786Z'
-modified: '2025-03-02T05:53:25.362Z'
+modified: '2025-03-02T06:08:01.101Z'
 ---
 
 # (LOW LEVEL) System Design
@@ -32,11 +32,9 @@ Key Topics:
 			- distrubuted cache
 			- rate limiter
 			- web crawler 
-service-oriented architectures, map-reduce, distributed caching, load balancing, and others
- memory management, processes, threads, synchronization, paging, and multithreading
-		few basic distributed computing concepts.
-
-how browsers function at a high level, from DNS lookups and TCP/IP, to socket connections.
+      - service-oriented architectures, map-reduce, distributed caching, load balancing, and others
+      - memory management, processes, threads, synchronization, paging, and multithreading few basic distributed computing concepts.
+      - how browsers function at a high level, from DNS lookups and TCP/IP, to socket connections.
 
 ## Approach to Low-Level Design
 - Clarify Requirements: Ask questions to understand the scope (e.g., "How many users will the system support?").

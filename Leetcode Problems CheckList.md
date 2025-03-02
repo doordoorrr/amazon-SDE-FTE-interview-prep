@@ -2,7 +2,7 @@
 tags: [amazon]
 title: Leetcode Problems CheckList
 created: '2025-03-01T23:50:06.008Z'
-modified: '2025-03-02T05:43:24.768Z'
+modified: '2025-03-02T06:08:57.410Z'
 ---
 
 # Leetcode Problems CheckList
@@ -29,6 +29,10 @@ CODE
 ----
 
 ### Resources:
+
+**grinnnnndd75**
+[https://www.techinterviewhandbook.org/grind75/](https://www.techinterviewhandbook.org/grind75/)
+
  - [ ] **Amazon Coding Sample**
 [https://youtu.be/mjZpZ_wcYFg](https://youtu.be/mjZpZ_wcYFg)
 
