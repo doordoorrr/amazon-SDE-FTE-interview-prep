@@ -2,10 +2,12 @@
 tags: [amazon]
 title: (LOW LEVEL) System Design
 created: '2025-03-01T23:35:26.786Z'
-modified: '2025-03-02T04:22:21.934Z'
+modified: '2025-03-02T05:43:16.677Z'
 ---
 
 # (LOW LEVEL) System Design
+**todo:** 
+- study all sections, then review appraoch & design patterns for solving such problems, then kill it! **
 
 Key Topics:
 -
@@ -30,8 +32,13 @@ Key Topics:
 			- distrubuted cache
 			- rate limiter
 			- web crawler 
+service-oriented architectures, map-reduce, distributed caching, load balancing, and others
+ memory management, processes, threads, synchronization, paging, and multithreading
+		few basic distributed computing concepts.
 
-		
+how browsers function at a high level, from DNS lookups and TCP/IP, to socket connections.
+
+
 ### Common Low-Level Design Problems
 - Design a Parking Lot
 - Design a Library Management System

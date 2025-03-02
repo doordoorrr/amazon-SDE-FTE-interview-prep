@@ -2,10 +2,13 @@
 tags: [amazon]
 title: Amazon Leadership Principles
 created: '2025-03-01T23:53:39.817Z'
-modified: '2025-03-02T04:23:43.950Z'
+modified: '2025-03-02T05:43:19.635Z'
 ---
 
 # Amazon Leadership Principles
+**todo:** 
+- read, study this, and apply it to myself. 
+
 Leadership Principles to Focus On
 Customer Obsession: Think of a time you went above and beyond to help a customer or user.
 

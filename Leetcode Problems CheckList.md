@@ -2,10 +2,13 @@
 tags: [amazon]
 title: Leetcode Problems CheckList
 created: '2025-03-01T23:50:06.008Z'
-modified: '2025-03-02T01:26:24.983Z'
+modified: '2025-03-02T05:43:24.768Z'
 ---
 
 # Leetcode Problems CheckList
+**todo:** 
+CODE 
+
 "write scalable, robust, and well-tested code"
  - [ ] LRU cache
  - [ ] merge intervals 
@@ -20,7 +23,7 @@ modified: '2025-03-02T01:26:24.983Z'
  - [ ] Keys and Rooms(exactly same on leetcode)
  - [ ] Matrix-based DSA problem
  - [ ] Leetcode Tree: Maximum path sum
- 
+
 
       
 ----

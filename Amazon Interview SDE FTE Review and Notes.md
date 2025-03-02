@@ -2,11 +2,12 @@
 tags: [amazon]
 title: Amazon Interview SDE FTE Review and Notes
 created: '2025-03-01T23:07:12.204Z'
-modified: '2025-03-02T04:26:50.446Z'
+modified: '2025-03-02T05:43:18.188Z'
 ---
 
 # Amazon Interview SDE FTE Review and Notes
-
+**todo:** 
+keep being u :)
 ### Tips
 ---
 **Before Coding:** Ask clarifying questions before jumping in to code the problem. Voice your assumptions – this will help the interviewer steer you back on track if needed. Ask for examples and use them to validate your ideas.

@@ -2,10 +2,13 @@
 tags: [amazon]
 title: My Interview Questions
 created: '2025-03-02T01:15:38.885Z'
-modified: '2025-03-02T04:14:41.148Z'
+modified: '2025-03-02T05:43:26.197Z'
 ---
 
 # My Interview Questions
+**todo:** 
+- add my q's
+
 **Tips before you head in:**
 Be prepared to explain what interests you about the role and the team (or teams) you’ll be meeting with.
 

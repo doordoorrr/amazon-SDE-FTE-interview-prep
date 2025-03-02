@@ -2,10 +2,14 @@
 tags: [amazon]
 title: Design Patterns Review
 created: '2025-03-01T23:07:38.145Z'
-modified: '2025-03-02T04:11:19.075Z'
+modified: '2025-03-02T05:43:23.233Z'
 ---
 
 # Design Patterns Review
+**todo:** 
+-  here? all of it lol 
+
+
 1. Structural Pattern
 2. Creational Pattern
 3. Behavioral Pattern
